@@ -72,10 +72,16 @@ If the cells run without any error and prints `105`, **Congratulations! You have
 ## Tutorials and timetable for the day
 
 Session 1 - 1D spectral simulation
+
+
 Session 2 - Simulation of sky maps
-~Lunch~
+
+Lunch
+
 Session 3 - Internal Science Data Challenge (Sabrina)
+
 Session 4 - Producing 1D spectra
+
 Session 5 - Producing skymaps through 3D analysis
 
 
