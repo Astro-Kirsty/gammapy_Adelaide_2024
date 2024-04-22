@@ -15,9 +15,9 @@ These instructions assume that you have previously installed a version of [Anaco
 We recommend that you install the latest version of gammapy as follows: 
 
 ```
-curl -O https://gammapy.org/download/install/gammapy-1.1-environment.yml
-conda env create -f gammapy-1.1-environment.yml
-conda activate gammapy-1.1
+curl -O https://gammapy.org/download/install/gammapy-1.2-environment.yml
+conda env create -f gammapy-1.2-environment.yml
+conda activate gammapy-1.2
 ```
 
 OR with `pip`
@@ -36,13 +36,13 @@ gammapy download datasets
 
 If using conda environment, set GAMMAPY_DATA with conda
 ```
-conda env config vars set GAMMAPY_DATA=$PWD/gammapy-datasets/1.1
-conda activate gammapy-1.1
+conda env config vars set GAMMAPY_DATA=$PWD/gammapy-datasets/1.2
+conda activate gammapy-1.2
 ```
 
 else set with shell:
 ```
-export GAMMAPY_DATA=$PWD/gammapy-datasets/1.1
+export GAMMAPY_DATA=$PWD/gammapy-datasets/1.2
 ```
 
 ### Check your installation
@@ -50,7 +50,7 @@ export GAMMAPY_DATA=$PWD/gammapy-datasets/1.1
 To check that the gammapy environment is working, open a new terminal and type
 
 ```
-conda activate gammapy-1.1
+conda activate gammapy-1.2
 gammapy info
 ```
 To further check that you have correctly set up the data folder type
