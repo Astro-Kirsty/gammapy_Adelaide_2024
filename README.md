@@ -69,6 +69,9 @@ print(len(obs))
 
 If the cells run without any error and prints `105`, **Congratulations! You have correctly set-up gammapy**
 
+
+### If you have any issues with installation please contact Kirsty via email feijen@apc.in2p3.fr
+
 ## Tutorials and timetable
 
 Session 1 - 1D spectral simulation
