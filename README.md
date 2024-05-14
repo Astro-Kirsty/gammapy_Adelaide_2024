@@ -3,7 +3,8 @@
 
 # Hands-on workshop on VHE data analysis using Gammapy
 
-This folder contains the analysis notebooks shown in the Gammapy hands on sessions for University of Adelaide and CTA-Oz
+This folder contains the analysis notebooks shown in the Gammapy hands on sessions for University of Adelaide and CTA-Oz. 
+The related indico page can be found at https://indico.cta-observatory.org/event/5395/ 
 
 ## Installation and set-up
 
